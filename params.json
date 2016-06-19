@@ -1,0 +1,6 @@
+{
+  "name": "Melb-pedestrian-wdc",
+  "tagline": "Tableau Wed Data Connector for Melbourne city pedestrian counts",
+  "body": "This is a Tableau 10 beta v2 Web Data Connector to access the Melbourne City dataset of Pedestrian Counts based on sensors placed across the city.\r\n \r\nThe dataset is currently limited to data from 2016 via the SODA API query. IF required data is available back to 2009.\r\n\r\n\r\nExplore the dataset here:\r\n\r\n* https://data.melbourne.vic.gov.au/Transport-Movement/Pedestrian-Counts/b2ak-trbp#column-menu\r\n\r\n\r\nFind the API here:\r\n\r\n* https://dev.socrata.com/foundry/data.melbourne.vic.gov.au/mxb8-wn4w",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
